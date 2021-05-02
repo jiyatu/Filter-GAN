@@ -1,6 +1,6 @@
 # [Value Iteration Networks]in TensorFlow
 
-This is a VIN implementation of the Filter module that explains the Filter in paper"Adversarial Training for Unknown Word Problems in Mongolian–Chinese Machine Translation".
+This is a VIN implementation of the Filter module.
 
 
 ## Dependencies
